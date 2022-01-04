@@ -14,3 +14,15 @@ batch_size=256 \
 max_timesteps=2e5
 ```
 
+Bibtex:
+```
+@INPROCEEDINGS{9341559,
+  author={Maggipinto, Marco and Susto, Gian Antonio and Chaudhari, Pratik},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Proximal Deterministic Policy Gradient}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={5438-5444},
+  doi={10.1109/IROS45743.2020.9341559}}
+  ```
