@@ -1,4 +1,5 @@
 # Code to reproduce results of Proximal Deterministic Policy Gradient
+Paper: [https://arxiv.org/pdf/2008.00759.pdf](https://arxiv.org/pdf/2008.00759.pdf) 
 
 Example usage:
 
